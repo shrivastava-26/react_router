@@ -58,8 +58,11 @@ Clone the repository:
 
 ## Available Routes
 **Home Page (/):** The landing page of the app.
+
 **About Page (/about):** A simple page that provides information about the app.
+
 **Dynamic Route Example (/user/:id):** Dynamic routing for user details.
+
 **404 Not Found (*):** Catch-all route for handling unknown paths.
 
 ## Concepts Covered
