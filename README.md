@@ -63,9 +63,9 @@ Clone the repository:
 **404 Not Found (*):** Catch-all route for handling unknown paths.
 
 ## Concepts Covered
-Basic Routing: Set up routes using <Route> and <Switch> (or <Routes> in newer versions).
-Nested Routing: Add routes inside components for deeper navigation.
-Route Parameters: Capture dynamic values from the URL and pass them as props.
+-Basic Routing: Set up routes using <Route> and <Switch> (or <Routes> in newer versions).
+-Nested Routing: Add routes inside components for deeper navigation.
+-Route Parameters: Capture dynamic values from the URL and pass them as props.
 Programmatic Navigation: Use useHistory or useNavigate to navigate programmatically.
 Protected Routes: Implement simple authentication to protect certain routes.
 Example Code
