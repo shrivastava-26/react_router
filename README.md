@@ -56,12 +56,13 @@ Clone the repository:
     npm start
     This will start the development server at http://localhost:3000/.
 
-Available Routes
-Home Page (/): The landing page of the app.
-About Page (/about): A simple page that provides information about the app.
-Dynamic Route Example (/user/:id): Dynamic routing for user details.
-404 Not Found (*): Catch-all route for handling unknown paths.
-Concepts Covered
+## Available Routes
+**Home Page (/):** The landing page of the app.
+**About Page (/about):** A simple page that provides information about the app.
+**Dynamic Route Example (/user/:id):** Dynamic routing for user details.
+**404 Not Found (*):** Catch-all route for handling unknown paths.
+
+## Concepts Covered
 Basic Routing: Set up routes using <Route> and <Switch> (or <Routes> in newer versions).
 Nested Routing: Add routes inside components for deeper navigation.
 Route Parameters: Capture dynamic values from the URL and pass them as props.
@@ -71,7 +72,7 @@ Example Code
 Here's a simple example of setting up routes in React:
 
 
-Learnings
+## Learnings
 How to install and use react-router-dom.
 How to manage state with URL parameters.
 How to redirect or navigate programmatically.
