@@ -67,12 +67,14 @@ Clone the repository:
 
 ## Concepts Covered
 -Basic Routing: Set up routes using <Route> and <Switch> (or <Routes> in newer versions).
+
 -Nested Routing: Add routes inside components for deeper navigation.
+
 -Route Parameters: Capture dynamic values from the URL and pass them as props.
+
 Programmatic Navigation: Use useHistory or useNavigate to navigate programmatically.
+
 Protected Routes: Implement simple authentication to protect certain routes.
-Example Code
-Here's a simple example of setting up routes in React:
 
 
 ## Learnings
