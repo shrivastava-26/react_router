@@ -1,4 +1,5 @@
-# React Router Practice
+# 🧑‍💻![ClipWindowsGIF](https://github.com/user-attachments/assets/b59c15d5-c9a9-413a-a502-7c0cef7e22c0)
+React Router Practice
 
 This repository contains my practice projects for learning and implementing routing concepts in **React.js** using **React Router**.
 
